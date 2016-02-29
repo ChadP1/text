@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/P1/Desktop/text/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/Users/P1/Desktop/text/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/P1/Desktop/Droid/Android_InClass_Calendar/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
         "source": "/Users/P1/Desktop/Droid/Android_InClass_Calendar/app/src/main/res/drawable-ldpi/ic_launcher.png"
     }

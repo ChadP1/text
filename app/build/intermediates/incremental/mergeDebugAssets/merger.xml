@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/P1/Desktop/Droid/Android_InClass_Calendar/app/src/main/assets"/></dataSet><dataSet config="debug"><source path="/Users/P1/Desktop/Droid/Android_InClass_Calendar/app/src/debug/assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/P1/Desktop/text/app/src/main/assets"/></dataSet><dataSet config="debug"><source path="/Users/P1/Desktop/text/app/src/debug/assets"/></dataSet></merger>

@@ -17,16 +17,16 @@
 
         <ImageView
             android:id="@+id/imageView1"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:src="@drawable/voice" />
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:src="@drawable/han" />
 
         <Button
             android:id="@+id/button1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:onClick="onClickB1"
-            android:text="An Evening with The Voice" />
+            android:text="Han" />
 
     </LinearLayout>
 
@@ -36,16 +36,16 @@
 
         <ImageView
             android:id="@+id/imageView2"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:src="@drawable/shamrock" />
+            android:layout_width="108dp"
+            android:layout_height="108dp"
+            android:src="@drawable/chewie" />
 
         <Button
             android:id="@+id/button2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:onClick="onClickB2"
-            android:text="Thistles &amp; Shamrocks " />
+            android:text="Chewie" />
 
     </LinearLayout>
 
@@ -55,16 +55,16 @@
 
         <ImageView
             android:id="@+id/imageView3"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:src="@drawable/civil" />
+            android:layout_width="108dp"
+            android:layout_height="108dp"
+            android:src="@drawable/luke" />
 
         <Button
             android:id="@+id/button3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:onClick="onClickB3"
-            android:text="Why Civil Resistance Works" />
+            android:text="Luke" />
 
     </LinearLayout>
 

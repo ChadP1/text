@@ -1,7 +1,15 @@
 [
     {
+        "merged": "/Users/P1/Desktop/text/app/build/intermediates/res/merged/debug/menu/layout_second.xml",
+        "source": "/Users/P1/Desktop/text/app/src/main/res/menu/layout_second.xml"
+    },
+    {
         "merged": "/Users/P1/Desktop/Droid/Android_InClass_Calendar/app/build/intermediates/res/merged/debug/menu/layout_second.xml",
         "source": "/Users/P1/Desktop/Droid/Android_InClass_Calendar/app/src/main/res/menu/layout_second.xml"
+    },
+    {
+        "merged": "/Users/P1/Desktop/text/app/build/intermediates/res/merged/debug/menu/layout_main.xml",
+        "source": "/Users/P1/Desktop/text/app/src/main/res/menu/layout_main.xml"
     },
     {
         "merged": "/Users/P1/Desktop/Droid/Android_InClass_Calendar/app/build/intermediates/res/merged/debug/menu/layout_main.xml",

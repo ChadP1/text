@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/P1/Desktop/Droid/Android_InClass_Calendar/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/randall.png",
+        "source": "/Users/P1/Desktop/Droid/Android_InClass_Calendar/app/src/main/res/drawable-xxhdpi/randall.png"
+    },
+    {
+        "merged": "/Users/P1/Desktop/text/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/katie.png",
+        "source": "/Users/P1/Desktop/text/app/src/main/res/drawable-xxhdpi/katie.png"
+    },
+    {
+        "merged": "/Users/P1/Desktop/Droid/Android_InClass_Calendar/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/katie.png",
+        "source": "/Users/P1/Desktop/Droid/Android_InClass_Calendar/app/src/main/res/drawable-xxhdpi/katie.png"
+    },
+    {
+        "merged": "/Users/P1/Desktop/Droid/Android_InClass_Calendar/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/clickclack.png",
+        "source": "/Users/P1/Desktop/Droid/Android_InClass_Calendar/app/src/main/res/drawable-xxhdpi/clickclack.png"
+    },
+    {
+        "merged": "/Users/P1/Desktop/text/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/clickclack.png",
+        "source": "/Users/P1/Desktop/text/app/src/main/res/drawable-xxhdpi/clickclack.png"
+    }
+]

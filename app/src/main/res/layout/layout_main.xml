@@ -17,26 +17,16 @@
 
         <ImageView
             android:id="@+id/imageView1"
-<<<<<<< HEAD
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:src="@drawable/voice" />
-=======
-            android:layout_width="59dp"
-            android:layout_height="match_parent"
-            android:src="@drawable/katie" />
->>>>>>> 013f8c8a21ac398fd862a8c744d35c76e1f46bd2
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:src="@drawable/han" />
 
         <Button
             android:id="@+id/button1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:onClick="onClickB1"
-<<<<<<< HEAD
-            android:text="An Evening with The Voice" />
-=======
-            android:text="Katie McMahon’s St. Patrick’s Day Party" />
->>>>>>> 013f8c8a21ac398fd862a8c744d35c76e1f46bd2
+            android:text="Han" />
 
     </LinearLayout>
 
@@ -46,26 +36,16 @@
 
         <ImageView
             android:id="@+id/imageView2"
-<<<<<<< HEAD
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:src="@drawable/shamrock" />
-=======
-            android:layout_width="60dp"
-            android:layout_height="60dp"
-            android:src="@drawable/randall" />
->>>>>>> 013f8c8a21ac398fd862a8c744d35c76e1f46bd2
+            android:layout_width="108dp"
+            android:layout_height="108dp"
+            android:src="@drawable/chewie" />
 
         <Button
             android:id="@+id/button2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:onClick="onClickB2"
-<<<<<<< HEAD
-            android:text="Thistles &amp; Shamrocks " />
-=======
-            android:text="The True Meaning Of Humanism" />
->>>>>>> 013f8c8a21ac398fd862a8c744d35c76e1f46bd2
+            android:text="Chewie" />
 
     </LinearLayout>
 
@@ -75,26 +55,16 @@
 
         <ImageView
             android:id="@+id/imageView3"
-<<<<<<< HEAD
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:src="@drawable/civil" />
-=======
-            android:layout_width="58dp"
-            android:layout_height="58dp"
-            android:src="@drawable/clickclack" />
->>>>>>> 013f8c8a21ac398fd862a8c744d35c76e1f46bd2
+            android:layout_width="108dp"
+            android:layout_height="108dp"
+            android:src="@drawable/luke" />
 
         <Button
             android:id="@+id/button3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:onClick="onClickB3"
-<<<<<<< HEAD
-            android:text="Why Civil Resistance Works" />
-=======
-            android:text="Click Clack Moo!" />
->>>>>>> 013f8c8a21ac398fd862a8c744d35c76e1f46bd2
+            android:text="Luke" />
 
     </LinearLayout>
 

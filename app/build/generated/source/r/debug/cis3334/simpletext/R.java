@@ -13,19 +13,16 @@ public final class R {
     public static final class drawable {
         public static final int battlefieldband=0x7f020000;
         public static final int billymcmaughlin=0x7f020001;
-<<<<<<< HEAD
-        public static final int civil=0x7f020002;
-        public static final int ic_launcher=0x7f020003;
-        public static final int redbaraat=0x7f020004;
-        public static final int shamrock=0x7f020005;
-        public static final int voice=0x7f020006;
-=======
-        public static final int clickclack=0x7f020002;
-        public static final int ic_launcher=0x7f020003;
-        public static final int katie=0x7f020004;
-        public static final int randall=0x7f020005;
-        public static final int redbaraat=0x7f020006;
->>>>>>> 013f8c8a21ac398fd862a8c744d35c76e1f46bd2
+        public static final int chewie=0x7f020002;
+        public static final int civil=0x7f020003;
+        public static final int clickclack=0x7f020004;
+        public static final int han=0x7f020005;
+        public static final int ic_launcher=0x7f020006;
+        public static final int katie=0x7f020007;
+        public static final int luke=0x7f020008;
+        public static final int redbaraat=0x7f020009;
+        public static final int shamrock=0x7f02000a;
+        public static final int voice=0x7f02000b;
     }
     public static final class id {
         public static final int LinearLayout1=0x7f070000;
@@ -36,10 +33,10 @@ public final class R {
         public static final int imageView2=0x7f070003;
         public static final int imageView3=0x7f070005;
         public static final int menu_settings=0x7f07000b;
-        public static final int txtDate=0x7f07000a;
-        public static final int txtLocation=0x7f070009;
-        public static final int txtSummary=0x7f070008;
-        public static final int txtTitle=0x7f070007;
+        public static final int radioButton=0x7f070007;
+        public static final int radioButton2=0x7f070008;
+        public static final int radioButton3=0x7f070009;
+        public static final int radioButton4=0x7f07000a;
     }
     public static final class layout {
         public static final int layout_main=0x7f030000;
