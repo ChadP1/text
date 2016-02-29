@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/P1/Desktop/Droid/Android_InClass_Calendar/app/build/intermediates/res/merged/debug/layout/layout_main.xml",
+        "source": "/Users/P1/Desktop/Droid/Android_InClass_Calendar/app/src/main/res/layout/layout_main.xml"
+    },
+    {
+        "merged": "/Users/P1/Desktop/Droid/Android_InClass_Calendar/app/build/intermediates/res/merged/debug/layout/layout_second.xml",
+        "source": "/Users/P1/Desktop/Droid/Android_InClass_Calendar/app/src/main/res/layout/layout_second.xml"
+    }
+]
